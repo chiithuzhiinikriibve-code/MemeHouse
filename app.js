@@ -554,7 +554,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "CHIITHUZHIINI",
     roll: "NDUIBC2606", course: "BCA (4 Years)", section: "SECTION C",
-    meme: #fyp.jpg, reason:enjoy life before its too late  },
+    meme: "./images/NDUIBC2606-2nd Sem.jpg", reason: "enjoy life before its too late" },
   { name: "WORCHUINGAM SHIMPHRUI",
     roll: "NDUIBC2607", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
